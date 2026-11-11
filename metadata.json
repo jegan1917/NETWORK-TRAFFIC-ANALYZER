@@ -1,0 +1,6 @@
+{
+  "name": "Network Traffic Analyzer",
+  "description": "A comprehensive network monitoring, traffic visualization, protocol analysis, and rule-based threat detection suite built for cybersecurity education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
